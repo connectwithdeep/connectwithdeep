@@ -10,7 +10,7 @@
 - Python
 - MySQL💻
 - C/C++
-  Currently learning react 😄
+  
 ## Contact
 
 Feel free to connect with me via 
