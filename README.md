@@ -7,9 +7,9 @@
 - HTML
 - CSS
 - JavaScript
-- Python
+- C++/C
 - MySQL💻
-- C/C++
+- Python
   
 ## Contact
 
