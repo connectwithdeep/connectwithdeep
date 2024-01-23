@@ -1,12 +1,13 @@
 # Git Profile: @connectwithdeep
 
 ## About Me
- 👋 Hello there! I'm Deepanshu, and I'm passionate about web development(front-end) . I have experience in various programming languages, including HTML, CSS, JavaScript, Python, C, and C++.
+ 👋 Hello there! I'm Deepanshu, and I'm passionate about web development(front-end) . I have experience in various programming languages, including HTML, CSS, JavaScript, Java, C++,and Pyhton.
  I love building web applications and exploring new technologies to enhance the user experience on the web.
 ## Skills 🌱
 - HTML
 - CSS
 - JavaScript
+- Java
 - C++/C
 - MySQL💻
 - Python
